@@ -13,3 +13,11 @@ Download the latest version from release. Then unzip it and put the folder into 
 > We are aware these currently don't have MacOS support, and for now MacOS users will need to manually install mods (see: MacOS FAQ). In the future we are planning to have dedicated Silksong Mod Installers, which will support all platforms that modding is supported on.
 
 > If you you don't want to use an installer for some reason, you can find instructions linked on the Silksong version of Bepinex page: https://thunderstore.io/c/hollow-knight-silksong/p/BepInEx/BepInExPack_Silksong/.
+
+# Build
+
+Install Visual Studio 2022 and open the repository. Build solution for Release and the mod archive will be produced in `bin/Publish/`.
+
+# Note
+
+A [note](note.md) I made for myself for developing my first ever mod in any game.
